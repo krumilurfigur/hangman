@@ -1,4 +1,11 @@
 ToDo list:
-Singleplayer
-2 player
-Random word generator
+Välj ord,
+gissa bokstav eller ord,
+grafiker,
+val att starta om,
+
+arbetas på:
+Random word generator,
+
+klart:
+Singleplayer eller 2 player,
