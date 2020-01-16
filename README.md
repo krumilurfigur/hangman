@@ -9,3 +9,7 @@ Random word generator,
 
 klart:
 Singleplayer eller 2 player,
+
+
+2020-01-16
+Vi har löst 1player/2player valet, imorgon ska vi börja på random word generatorn
