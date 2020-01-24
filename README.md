@@ -7,7 +7,7 @@ arbetas på:
 gissa bokstav eller ord,
 
 klart:
-Singleplayer eller 2 player, Random word generator, Välj ord,
+Singleplayer eller 2 player, Random word generator, Välj ord, splitta i en char array
 
 
 2020-01-16
@@ -18,3 +18,6 @@ Vi har börjat med att läsa in ord från en fil för att använda i random word
 
 2020-01-23
 Vi har gjort klart random word generatorn och gjort så att man kan skriva in ett ord för att gissas. Vi börjat på att gissa ord eller bokstav
+
+2020-01-24
+Vi märkte att vi behövde splitta ordet i en char array så det har vi gjort också vet vi att vi ska använda indexOf för att gissa bokstäver

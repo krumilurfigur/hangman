@@ -1680,7 +1680,6 @@ hurry
 hurry up
 hurt
 husband
-I
 ice
 ice cream
 idea
@@ -1688,7 +1687,6 @@ ideal
 identify
 identify with
 identity
-i.e.
 if
 ignore
 ill
@@ -1959,8 +1957,6 @@ listen
 literature
 litre
 little
-live 1
-live 2
 lively
 live on
 live through

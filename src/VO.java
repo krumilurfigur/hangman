@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class VO {
     public static void main(String[] args) {
-        String word;
         Scanner kb = new Scanner(System.in);
 
         System.out.println("write your word");
