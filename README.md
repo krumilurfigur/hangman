@@ -21,3 +21,6 @@ Vi har gjort klart random word generatorn och gjort så att man kan skriva in et
 
 2020-01-24
 Vi märkte att vi behövde splitta ordet i en char array så det har vi gjort också vet vi att vi ska använda indexOf för att gissa bokstäver
+
+2020-01-30
+Vi gjorde allt till metoder och har jobbat på gissa

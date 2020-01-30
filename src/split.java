@@ -1,6 +1,6 @@
 /*
-
-date
+Skapar en char array av ordet
+2020-01-24
 Gabriel Öberg
  */
 
